@@ -1,0 +1,5 @@
+services for fullstack
+https://javascript.plainenglish.io/essential-aws-services-a-full-stack-engineer-should-be-aware-of-5155f25ce7e3
+
+S3
+https://k21academy.com/amazon-web-services/amazon-s3-bucket-and-storage-classes/
